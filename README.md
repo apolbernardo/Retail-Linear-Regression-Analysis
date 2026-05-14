@@ -2,11 +2,10 @@
 Project Description: This project analyzes several years of retail transaction data to understand sales patterns, the impact of promotions, and to forecast future revenue.
 
 Key Objectives:
-
-Investigate the relationship between promotional activities and sales performance
-Analyze how different factors (discounts, category, region) influence revenue
-Build a simple Linear Regression model to forecast 2025 revenue
-Provide actionable business recommendations to reduce over-reliance on discounts
+- Investigate the relationship between promotional activities and sales performance
+- Analyze how different factors (discounts, category, region) influence revenue
+- Build a simple Linear Regression model to forecast 2025 revenue
+- Provide actionable business recommendations to reduce over-reliance on discounts
 
 What I Did:
 
